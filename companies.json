@@ -1,12 +1,1 @@
-[
-{
-  name: "Clurgo",
-  priority: 1,
-  notes: "Strategiczny klient"
-},
-{
-  name: "Microsoft",
-  priority: 1,
-  notes: "Firma nielubiana przez Javowców"
-}
-]
+[{"name":"Clurgo","notes":"Kluczowy gracz na rynku"},{"name":"Microsoft","notes":"Nielubiana przez Javowców"},{"name":"Orange","notes":"segment telco"},{"name":"Oracle","notes":"Bazy danych"}]
