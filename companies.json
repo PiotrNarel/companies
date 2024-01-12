@@ -1,1 +1,1 @@
-[{"name":"Clurgo","notes":"Kluczowy gracz na rynku"},{"name":"Microsoft","notes":"Nielubiana przez Javowców"},{"name":"Orange","notes":"segment telco"},{"name":"Oracle","notes":"Bazy danych"}]
+[{"name":"Clurgo","notes":"Kluczowy gracz","priorytet":1},{"name":"Apple","notes":"Dostawcy sprzętu","priorytet":42},{"name":"Microsoft","notes":"Spoko firma","priorytet":74}]
